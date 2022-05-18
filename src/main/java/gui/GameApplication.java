@@ -1,2 +1,4 @@
-package gui;public class GameApplication {
+package gui;
+
+public class GameApplication {
 }

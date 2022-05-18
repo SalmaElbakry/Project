@@ -1,2 +1,4 @@
-package puzzle;public record Position() {
+package puzzle;
+
+public record Position() {
 }

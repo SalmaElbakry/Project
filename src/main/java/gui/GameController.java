@@ -1,2 +1,4 @@
-package gui;public class GameController {
+package gui;
+
+public class GameController {
 }

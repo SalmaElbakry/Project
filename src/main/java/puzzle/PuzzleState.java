@@ -1,2 +1,4 @@
-package puzzle;public class PuzzleState {
+package puzzle;
+
+public class PuzzleState {
 }
